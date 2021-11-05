@@ -1,0 +1,14 @@
+{
+    "tab":"./audio/click.wav",
+    "capslock":"./audio/clack.wav",
+    "shift":"./audio/click.wav",
+    "ctrl_l":"./audio/clack.wav",
+    "alt_l":"./audio/clock.wav",
+    "space":"./audio/click.wav",
+    "alt_gr":"./audio/clock.wav",
+    "ctrl_r":"./audio/clack.wav",
+    "shift_r":"./audio/clack.wav",
+    "enter":"./audio/clock.wav",
+    "backspace":"./audio/clack.wav",
+    "other_keys":"./audio/clack.wav"
+}
