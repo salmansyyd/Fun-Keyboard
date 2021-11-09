@@ -18,7 +18,7 @@ To use this application you will need
 - clone repository
 
 ```
-# enter repo link here
+git clone https://github.com/Sayyed-Salman/Audio-Board.git
 ```
 
 - Install dependencies
