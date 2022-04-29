@@ -4,6 +4,7 @@ import pynput
 from pynput.keyboard import Listener, Key
 from selector import profile_selector
 
+
 print("Audio Board v0.1\n")
 print("Select Profile From the following list ")
 
