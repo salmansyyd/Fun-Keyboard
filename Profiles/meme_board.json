@@ -1,15 +1,15 @@
 {
-            "tab":"./meme_board/wav/clack.wav",
-            "capslock":"./meme_board/wav/bruh.wav",
-            "shift":"./meme_board/wav/click.wav",
-            "ctrl_l":"./meme_board/wav/click.wav",
-            "alt_l":"./meme_board/wav/windowsxperror.wav",
-            "space":"./meme_board/wav/click.wav",
-            "alt_gr":"./meme_board/wav/windowsxperror.wav",
-            "ctrl_r":"./meme_board/wav/clack.wav",
-            "shift_r":"./meme_board/wav/clack.wav",
-            "enter":"./meme_board/wav/discord-notification.wav",
-            "backspace":"./meme_board/wav/pussy.wav",
-            "other_keys":"./meme_board/wav/clack.wav"
+            "tab":"./sound/meme_board/wav/clack.wav",
+            "capslock":"./sound/meme_board/wav/bruh.wav",
+            "shift":"./sound/meme_board/wav/click.wav",
+            "ctrl_l":"./sound/meme_board/wav/click.wav",
+            "alt_l":"./sound/meme_board/wav/windowsxperror.wav",
+            "space":"./sound/meme_board/wav/click.wav",
+            "alt_gr":"./sound/meme_board/wav/windowsxperror.wav",
+            "ctrl_r":"./sound/meme_board/wav/clack.wav",
+            "shift_r":"./sound/meme_board/wav/clack.wav",
+            "enter":"./sound/meme_board/wav/discord-notification.wav",
+            "backspace":"./sound/meme_board/wav/pussy.wav",
+            "other_keys":"./sound/meme_board/wav/clack.wav"
 }
 

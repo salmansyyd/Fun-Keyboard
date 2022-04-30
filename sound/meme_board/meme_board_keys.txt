@@ -20,11 +20,3 @@ alt = "windows_xp_error"
             "key.alt" : "./meme_board/wav/windowsxperror.wav",
             "num_keys": "./meme_board/wav/quack.wav"
 }
-
-
-
-
-if possible try combining keys to trigger a sound effect
-[prn] triggers a sound {
-phub_intro.mp3
-}
