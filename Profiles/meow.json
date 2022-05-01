@@ -1,10 +1,9 @@
 {
-  "profile-name": "cat-sounds",
-  "id": "",
-  "main-sound": "",
+  "profile-name": "memes",
+  "id": "1",
 
   "num-keys": {
-    "default-num": "",
+    "default": "./sound/meme_board/wav/clack.wav",
     "1": "",
     "2": "",
     "3": "",
@@ -18,11 +17,11 @@
   },
 
   "alphabet-keys": {
-    "default-alpha": ""
+    "default": "./sound/meme_board/wav/click.wav"
   },
 
   "special-keys": {
-    "default-special": "",
+    "default": "./sound/meme_board/wav/discord-notification.wav",
     "Key.tab":"",
     "Key.enter": "",
     "Key.shift": "",
@@ -39,6 +38,7 @@
     "Key.down": "",
     "Key.up": "",
     "Key.num_lock": "",
-    "Key.delete": ""
+    "Key.delete": "",
+    "Key.space":"./sound/meme_board/wav/windowsxperror.wav"
   }
 }
