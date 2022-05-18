@@ -11,12 +11,10 @@ def profile_selector():
     for file in range(len(total_file)):
         print(file, total_file[file])
 
-    selected_file_number = int(input("Enter Profile number:"))
+    selected_file_number = int(input("\nEnter Profile number: "))
 
     for file in range(len(total_file)):
         if selected_file_number == file:
             selected_file = total_file[file]
 
     return selected_file
-
-

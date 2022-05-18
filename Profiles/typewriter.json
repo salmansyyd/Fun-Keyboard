@@ -2,7 +2,7 @@
     "profile-name": "defalut",
     "id": "0",
     "num-keys": {
-        "default": "./sound/keyclicks/click.wav",
+        "default": "./sound/type-writer/softhit.wav",
         "'0'": "",
         "'1'": "",
         "'2'": "",
@@ -15,7 +15,7 @@
         "'9'": ""
     },
     "alphabet-keys": {
-        "default": "./sound/keyclicks/clack.wav",
+        "default": "./sound/type-writer/softclick.wav",
         "'a'": "",
         "'b'": "",
         "'c'": "",
@@ -44,7 +44,7 @@
         "'z'": ""
     },
     "special-keys": {
-        "default": "./sounds/keyclicks/clock.wav",
+        "default": "./sound/type-writer/hardhit.wav",
         "Key.tab": "",
         "Key.enter": "",
         "Key.shift": "",

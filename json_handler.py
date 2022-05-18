@@ -36,7 +36,8 @@ def safe_get_path(element, *keys):
 
 
 def get_dict(config):
-    with open(config, 'r') as file:
+    file_location = f"./Profiles/{config}"
+    with open(file_location, 'r') as file:
         keys_dict = json.load(file)
     return keys_dict
 

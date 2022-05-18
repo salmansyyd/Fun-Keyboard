@@ -2,7 +2,7 @@
     "profile-name": "memes",
     "id": "1",
     "num-keys": {
-        "default": "./sound/meme_board/wav/clack.wav",
+        "default": "./sound/memes/quack.wav",
         "'0'": "",
         "'1'": "",
         "'2'": "",
@@ -15,8 +15,8 @@
         "'9'": ""
     },
     "alphabet-keys": {
-        "default": "./sound/meme_board/wav/click.wav",
-        "'a'": "./testfiles/cat/mixkit-domestic-cat-hungry-meow-45.wav",
+        "default": "./sound/memes/clack.wav",
+        "'a'": "",
         "'b'": "",
         "'c'": "",
         "'d'": "",
@@ -34,7 +34,7 @@
         "'p'": "",
         "'q'": "",
         "'r'": "",
-        "'s'": "./testfiles/cat/mixkit-sweet-kitty-meow-93.wav",
+        "'s'": "",
         "'t'": "",
         "'u'": "",
         "'v'": "",
@@ -44,9 +44,9 @@
         "'z'": ""
     },
     "special-keys": {
-        "default": "./sound/meme_board/wav/discord-notification.wav",
+        "default": "./sound/memes/discord-notification.wav",
         "Key.tab": "",
-        "Key.enter": "",
+        "Key.enter": "./sound/memes/bruh.wav",
         "Key.shift": "",
         "Key.shift_r": "",
         "Key.backspace": "",
@@ -62,6 +62,6 @@
         "Key.up": "",
         "Key.num_lock": "",
         "Key.delete": "",
-        "Key.space": "./sound/meme_board/wav/windowsxperror.wav"
+        "Key.space": "./sound/memes/windowsxperror.wav"
     }
 }
