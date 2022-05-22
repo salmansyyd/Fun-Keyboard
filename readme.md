@@ -18,7 +18,7 @@ To use this application you will need
 - clone repository
 
 ```
-git clone https://github.com/Sayyed-Salman/Audio-Board.git
+git clone https://github.com/Sayyed-Salman/Fun-Keyboard.git
 ```
 
 - Install dependencies
